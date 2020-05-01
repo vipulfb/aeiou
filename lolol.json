@@ -1,0 +1,36 @@
+{
+  "response": [
+    {
+      "state": "Delhi",
+     
+      "list": [
+        {
+          "name": "North Delhi",
+          "zone": "red"
+        },
+        {
+          "name": "South Delhi",
+          "zone": "orange"
+        }
+      ]
+    },
+    {
+      "state": "Uttar-Pradesh",
+     
+      "list": [
+        {
+          "name": "Agra",
+          "zone": "red"
+        },
+        {
+          "name": "Aligarh",
+          "zone": "red"
+        },
+        {
+          "name": "Barabanki",
+          "zone": "green"
+        }
+      ]
+    }
+  ]
+}
