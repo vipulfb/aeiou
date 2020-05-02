@@ -1,0 +1,3669 @@
+{
+  "data": [
+    {
+      "name": "Nicobars",
+      "state": "Andaman And Nicobar lslands",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "North And Middle Andaman",
+      "state": "Andaman And Nicobar lslands",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South Andamans",
+      "state": "Andaman And Nicobar lslands",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Vizianagaram",
+      "state": "Andhra Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Anantapur",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "East Godavari",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Prakasam",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Srikakulam",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Visakhapatanam",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "West Godavari",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Y.S.R.",
+      "state": "Andhra Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chittoor",
+      "state": "Andhra Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Guntur",
+      "state": "Andhra Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Krishna",
+      "state": "Andhra Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kurnool",
+      "state": "Andhra Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Spsr Nellore",
+      "state": "Andhra Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Anjaw",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Changlang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dibang Valley",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "East Kameng",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "East Slang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kamle",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kra Daadi",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "KurungKumey",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lepa rada",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lohit",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Longding",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lower Dibang Valley",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lower Siang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lower Subansiri",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Namsai",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "PakkeKessang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Papum Pare",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Shi Yomi",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Siang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tawang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tirap",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Upper Siang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Upper Subansiri",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West Kameng",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West Siang",
+      "state": "Arunachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Baksa",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Barpeta",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Biswanath",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bongaigaon",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Cachar",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Charaideo",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chirang",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Da rra ng",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dhemaji",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dibrugarh",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dima Hasao",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Golaghat",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hailakandi",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hojai",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jorhat",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kamrup",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kamrup Metro",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "KarbiAnglong",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Karimganj",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kokrajhar",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lakhimpur",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Majuli",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nagaon",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nalbari",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sivasagar",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sonitpur",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South Salmara Mancachar",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tinsukia",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Udalguri",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West KarbiAnglong",
+      "state": "Assam",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dhubri",
+      "state": "Assam",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Goalpara",
+      "state": "Assam",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Marigaon",
+      "state": "Assam",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Araria",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jamui",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Katihar",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Khagaria",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kishanganj",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Muzaffarpur",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "PashchimChampran",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sa ha rsa",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Samastipur",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sheikhpura",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sheohar",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sitamarhi",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Supaul",
+      "state": "Bihar",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Arwal",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Aurangabad",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Banka",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Begusarai",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhagalpur",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhojpur",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Darbhanga",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gopalganj",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jehanabad",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kaimur (Bhabua)",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "La khisa rai",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Madhepura",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Madhubani",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nalanda",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nawada",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "PurbiChamparan",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Purnia",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Saran",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Siwan",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Vaishali",
+      "state": "Bihar",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Buxar",
+      "state": "Bihar",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Gaya",
+      "state": "Bihar",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Munger",
+      "state": "Bihar",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Patna",
+      "state": "Bihar",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Rohtas",
+      "state": "Bihar",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Chandigarh",
+      "state": "Chandigarh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Balod",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Baloda Bazar",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Balrampur",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bastar",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bemetara",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bijapur",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bilaspur",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dantewada",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dhamtari",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Durg",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Garivaband",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Janjgir-Champa",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jashpur",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kabirdham",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kanker",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kondagaon",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Korea",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mahasamund",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Munseli",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Na rayan pur",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Raigarh",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Rajnandgaon",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sukma",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Surajpur",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Surguia",
+      "state": "Chhattisgarh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Korba",
+      "state": "Chhattisgarh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Raipur",
+      "state": "Chhattisgarh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Dadra And Nasar Haveli",
+      "state": "Dadra And Nasar Haveli",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Daman",
+      "state": "Daman And Diu",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Diu",
+      "state": "Daman And Diu",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Central",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "East",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "New Delhi",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "North",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "North East",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "North West",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Shahdara",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "South",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "South East",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "South West",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "West",
+      "state": "Delhi",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "North Goa",
+      "state": "Goa",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South Goa",
+      "state": "Goa",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Anand",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Arvalli",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Banas Kantha",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bha ruch",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhavnagar",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Botad",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chhotaudepur",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dang",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dohad",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gandhinagar",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kachchh",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kheda",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mahesana",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mahisagar",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Narmada",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Navsari",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "PanchMahals",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Patan",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Rajkot",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Tapi",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Vadodara",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Valsad",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ahmadabad",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Amreli",
+      "state": "Gujarat",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "DevbhumiDwarka",
+      "state": "Gujarat",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "GirSomnath",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jamnagar",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Junagadh",
+      "state": "Gujarat",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Morbi",
+      "state": "Gujarat",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Porbandar",
+      "state": "Gujarat",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "SabarKantha",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Surat",
+      "state": "Gujarat",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Surendranagar",
+      "state": "Gujarat",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ambala",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhiwani",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "CharkiDadri",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Faridabad",
+      "state": "Haryana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Fatehabad",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gurugram",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hisar",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jhajjar",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jind",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kaithal",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "KarnaI",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kurukshetra",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mahendragarh",
+      "state": "Haryana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nuh",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Palwal",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Panchkula",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Panipat",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Rewari",
+      "state": "Haryana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Rohtak",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sirsa",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sonipat",
+      "state": "Haryana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Yamunanagar",
+      "state": "Haryana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bilaspur",
+      "state": "Himachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chamba",
+      "state": "Himachal Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hamirpur",
+      "state": "Himachal Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kangra",
+      "state": "Himachal Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kinnaur",
+      "state": "Himachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kullu",
+      "state": "Himachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lahul And Spiti",
+      "state": "Himachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mandi",
+      "state": "Himachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Shimla",
+      "state": "Himachal Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sirmaur",
+      "state": "Himachal Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Solan",
+      "state": "Himachal Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Una",
+      "state": "Himachal Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Anantnag",
+      "state": "Jammu And Kashmir",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bandipora",
+      "state": "Jammu And Kashmir",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Baramulla",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Budgam",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Doda",
+      "state": "Jammu And Kashmir",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ganderbal",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jammu",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kathua",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kishtwar",
+      "state": "Jammu And Kashmir",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kulgam",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kupwara",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Poonch",
+      "state": "Jammu And Kashmir",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Pulwama",
+      "state": "Jammu And Kashmir",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Rajouri",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Reasi",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ramban",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Samba",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Shopian",
+      "state": "Jammu And Kashmir",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Srinagar",
+      "state": "Jammu And Kashmir",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Udhampur",
+      "state": "Jammu And Kashmir",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bokaro",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chatra",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Deoghar",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dhanbad",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dumka",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "East Singhbum",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Garhwa",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Giridih",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Godda",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Gumla",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hazaribagh",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jamtara",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Khunti",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Koderma",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Latehar",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lohardaga",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Pakur",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Palamu",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ramgarh",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ranchi",
+      "state": "Jharkhand",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Sahebganj",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Saraikela Kha rsawan",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Simdega",
+      "state": "Jharkhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "West Singhbhum",
+      "state": "Jharkhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bagalkote",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ballari",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Belagavi",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bengaluru Rural",
+      "state": "Karnataka",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bengaluru Urban",
+      "state": "Karnataka",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bidar",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chamarajanagara",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chikkaballapura",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chikkamagaluru",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chitrad urga",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dakshina Kannada",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Davangere",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dharwad",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gadag",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hassan",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Haveri",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kalaburagi",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kodagu",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kolar",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Koppal",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mandya",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mysuru",
+      "state": "Karnataka",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Raichur",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ramanagara",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Shivamogga",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tumakuru",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Udupi",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Uttara Kannada",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Vijayapura",
+      "state": "Karnataka",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Yadgir",
+      "state": "Karnataka",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Alappuzha",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ernakulam",
+      "state": "Kerala",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kannur",
+      "state": "Kerala",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kasaragod",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kollam",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kottayam",
+      "state": "Kerala",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kozhikode",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "ldukki",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Malappuram",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Pa la kkad",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Patha namthitta",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Thrissur",
+      "state": "Kerala",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Wayanad",
+      "state": "Kerala",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kargil",
+      "state": "Ladakh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "LehLada kh",
+      "state": "Ladakh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Lakshadweep District",
+      "state": "Lakshadweep",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Agar Malwa",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Alirajpur",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Anuppur",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ashoknagar",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Balaghat",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Barwani",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Betul",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhind",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bhopal",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Burhanpur",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chhatarpur",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chhindwara",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Damoh",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Datia",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dewas",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Dhar",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Dindori",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "East Nimar",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Guna",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Gwalior",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Harda",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hoshangabad",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jha bua",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jabalpur",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Katni",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Khargone",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "lndore",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Mandla",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mandsaur",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Morena",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Narsinghpur",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Neemuch",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Niwari",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Panna",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Raisen",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Rajgarh",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ratlam",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Rewa",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sagar",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Satna",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sehore",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Seoni",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Shahdol",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Shajapur",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sheopur",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Shivpuri",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Singrauli",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sidhi",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tikamgarh",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ujjain",
+      "state": "Madhya Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Umaria",
+      "state": "Madhya Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Vidisha",
+      "state": "Madhya Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ahmednagar",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Akola",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Amravati",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Aurangabad",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Beed",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhandara",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Buldhana",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chandrapur",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dhule",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Gadchiroli",
+      "state": "Maharashtra",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Gondia",
+      "state": "Maharashtra",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hingoli",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jalgaon",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jalna",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kolhapur",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Latur",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mumbai",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Mumbai Suburban",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Nagpur",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Nanded",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nandurbar",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nashik",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Osmanabad",
+      "state": "Maharashtra",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Palghar",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Parbhani",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Pune",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Raigad",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ratnagiri",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sangli",
+      "state": "Maharashtra",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sata ra",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Sindhudurg",
+      "state": "Maharashtra",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Solapur",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Thane",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Wardha",
+      "state": "Maharashtra",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Washim",
+      "state": "Maharashtra",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Yavatmal",
+      "state": "Maharashtra",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bishnupur",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chandel",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Churachandpur",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jiribam",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kakching",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kamjong",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kangpokpi",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "lmphal East",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "lmphalWest",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Noney",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Pherzawl",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Senapati",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tamenglong",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tengnoupal",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Thoubal",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ukhrul",
+      "state": "Manipur",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "East Garo Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "East Jaintia Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "East Khasi Hills",
+      "state": "Meghalaya",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "North Garo Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "RiBhoi",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South Garo Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South West Garo Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South West Khasi Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West Garo Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West Jaintia Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West Khasi Hills",
+      "state": "Meghalaya",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Aizawl",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Champhai",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hnahthial",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Khawzawl",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kolasib",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lawngtlai",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lunglei",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mamit",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sa itual",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Saiha",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Serchhip",
+      "state": "Mizoram",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mokokchung",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Peren",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Phek",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Wokha",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dimapur",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kiphire",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kohima",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Longleng",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mon",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tuensang",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Zunheboto",
+      "state": "Nagaland",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Anugul",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Balangir",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Baleshwar",
+      "state": "Odisha",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bargarh",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bhadrak",
+      "state": "Odisha",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Boudh",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Cuttack",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Deogarh",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dhenkanal",
+      "state": "Odisha",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gajapati",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ganjam",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jagatsinghapur",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jaiapur",
+      "state": "Odisha",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jharsuguda",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kalahandi",
+      "state": "Odisha",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kandhamal",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kendrapara",
+      "state": "Odisha",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kendujhar",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Khordha",
+      "state": "Odisha",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Koraput",
+      "state": "Odisha",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Malkangiri",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mayurbhan",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nabarangpur",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nayagarh",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nuapada",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Puri",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Rayagada",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sambalpur",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sonepur",
+      "state": "Odisha",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sundargarh",
+      "state": "Odisha",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Karaikal",
+      "state": "Puducherry",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mahe",
+      "state": "Puducherry",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Pondicherry",
+      "state": "Puducherry",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Yanam",
+      "state": "Puducherry",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "state": "Punjab",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "FaziIka",
+      "state": "Punjab",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Firozepur",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gurdaspur",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hoshiarpur",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jalandhar",
+      "state": "Punjab",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kapurthala",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ludhiana",
+      "state": "Punjab",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Moga",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Pathankot",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Rupnagar (Ropar)",
+      "state": "Punjab",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tarn Taran",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Amritsar",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Barnala",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bathinda",
+      "state": "Punjab",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Faridkot",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mansa",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Patiala",
+      "state": "Punjab",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "S.A.S Nagar",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sangrur",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Shahid Bhagat Singh Nagar (Nawanshahr)",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sri Muktsar Sahib",
+      "state": "Punjab",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ajmer",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Alwar",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Banswara",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Baran",
+      "state": "Rajasthan",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Barmer",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bharatpur",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bhilwara",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bikaner",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bundi",
+      "state": "Rajasthan",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chittorgarh",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Churu",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dausa",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dholpur",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dungarpur",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ganganagar",
+      "state": "Rajasthan",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hanumangarh",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jaipur",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jaisalmer",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jalore",
+      "state": "Rajasthan",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jhalawar",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jhunjhunu",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jodhpur",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Karauli",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kota",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Nagaur",
+      "state": "Rajasthan",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Pali",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Pratapgarh",
+      "state": "Rajasthan",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Rajsamand",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "SawaiMadhopur",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sikar",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sirohi",
+      "state": "Rajasthan",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Tonk",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Udaipur",
+      "state": "Rajasthan",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "East District",
+      "state": "Sikkim",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "North District",
+      "state": "Sikkim",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "South District",
+      "state": "Sikkim",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West District",
+      "state": "Sikkim",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Ariyalur",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Chengalpattu",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Chennai",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Coimbatore",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Cuddalore",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dharmapuri",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Dindigul",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Erode",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kallakurichi",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kanchipuram",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kannivakumari",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Karur",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Krishnaeiri",
+      "state": "Tamil Nadu",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Madurai",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Nagapattinam",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Namakkal",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Perambalur",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Pudukkottai",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ramanathapuram",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ranipet",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Salem",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sivaganga",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Tenkasi",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Thanjavur",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "The Nileiris",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Theni",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Thiruvallur",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Thiruvarur",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Tiruchirappalli",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Tirunelveli",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Tirupathur",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Tiruppur",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Tiruvannamalai",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Tuticorin",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Vellore",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Villupuram",
+      "state": "Tamil Nadu",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Virudhunagar",
+      "state": "Tamil Nadu",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Adilabad",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "BhadradriKothagudem",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hyderabad",
+      "state": "Telangana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jagitial",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jangoan",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "JayashankarBhupalapally",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jogulamba Gadwal",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kamareddy",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Karimnagar",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Khammam",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "KumuramBheemAsifabad",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mahabubabad",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mahabubnagar",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mancherial",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Medak",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "MedchalMalkajgiri",
+      "state": "Telangana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Mulugu",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nagarkurnool",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Nalgonda",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Narayanpet",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nirmal",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nizamabad",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Peddapalli",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "RajannaSircilla",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ranga Reddy",
+      "state": "Telangana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Sangareddy",
+      "state": "Telangana",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Siddipet",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Suryapet",
+      "state": "Telangana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Vikarabad",
+      "state": "Telangana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Warangal Urban",
+      "state": "Telangana",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "YadadriBhuvanagiri",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Wanaparthy",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Warangal Rural",
+      "state": "Telangana",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dhalai",
+      "state": "Tripura",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Gomati",
+      "state": "Tripura",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Khowai",
+      "state": "Tripura",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sepahijala",
+      "state": "Tripura",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Unakoti",
+      "state": "Tripura",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "West Tripura",
+      "state": "Tripura",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "North Tripura",
+      "state": "Tripura",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "South Tripura",
+      "state": "Tripura",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Agra",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Aligarh",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Ambedkar Nagar",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Amethi",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Amroha",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Auraiya",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ayodhya",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Azamgarh",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Baghpat",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bahraich",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ballia",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Balrampur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Banda",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Barabanki",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bareilly",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Basti",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bhadohi",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Biinor",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Budaun",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Bulandshahr",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Chandauli",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chitrakoot",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Deoria",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Etah",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Etawah",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Fa rrukhabad",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Fatehpur",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Firozabad",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Gautam Buddha Nagar",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Ghaziabad",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ghazipur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gonda",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Ha pur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hamirpur",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hardoi",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Hath ras",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Jalaun",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jaunpur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Jhansi",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kannauj",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kanpur Dehat",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kanpur Nagar",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Kasganj",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kaushambi",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Kheri",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kushi Nagar",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lalitpur",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Maharajganj",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mahoba",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Mainpuri",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Mathura",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Mau",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Meerut",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Mirzapur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Moradabad",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Muzaffarnagar",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Pilibhit",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Prata pgarh",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Prayagraj",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Rae Bareli",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Rampur",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Saharanpur",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Sambhal",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sant Kabeer Nagar",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Shahjahanpur",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Shamli",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Shravasti",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Siddharth Nagar",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sitapur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Sonbhadra",
+      "state": "Uttar Pradesh",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Sultanpur",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Unnao",
+      "state": "Uttar Pradesh",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Varanasi",
+      "state": "Uttar Pradesh",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Haridwar",
+      "state": "Uttarakhand",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Almora",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Bageshwar",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Chamoli",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Champawat",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dehradun",
+      "state": "Uttarakhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Nainital",
+      "state": "Uttarakhand",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "PauriGarhwal",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Pithoragarh",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "RudraPrayag",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "TehriGarhwal",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Udam Singh Nagar",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Uttar Kashi",
+      "state": "Uttarakhand",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "24 Paraganas North",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "24 Paraganas South",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Bankura",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Birbhum",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Coochbehar",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Darjeeling",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Dinajpur Dakshin",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Dinajpur Uttar",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Hooghly",
+      "state": "West Bengal",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Howrah",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jalpaiguri",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Jhargram",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kolkata",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Maldah",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Medinipur East",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Medinipur West",
+      "state": "West Bengal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Murshidabad",
+      "state": "West Bengal",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Paschim Bardhaman",
+      "state": "West Bengal",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "PurbaBardhaman",
+      "state": "West Bengal",
+      "zone": "Orange Zone"
+    },
+    {
+      "name": "Purulia",
+      "state": "West Bengal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Alipurduar",
+      "state": "West Bensal",
+      "zone": "Green Zone"
+    },
+    {
+      "name": "Kalimpong",
+      "state": "West Bensal",
+      "zone": "Red Zone"
+    },
+    {
+      "name": "Nadia",
+      "state": "West Bensal",
+      "zone": "Orange Zone"
+    }
+  ]
+}
