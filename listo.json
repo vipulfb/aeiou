@@ -1,4 +1,10 @@
-{
+{"switch": {
+  "header_ad_enable": false,
+  "footer_ad_enable": true,
+  "interstitial_ad_enable": true
+},
+  "updatetime": "Last updated on 1st May 2020",
+  "disclaimer": "Use at your own risk",
   "data": [
     {
       "name": "Nicobars",
